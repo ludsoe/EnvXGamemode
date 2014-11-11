@@ -1,0 +1,12 @@
+"EnvironmentsX"
+{
+	"base"		"sandbox"
+	"title"		"EnvironmentsX"
+	"maps"		"^sb_"
+	"menusystem"	"1"
+	
+	"settings"
+	{
+
+	}
+}
