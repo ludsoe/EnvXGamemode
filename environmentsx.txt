@@ -4,9 +4,4 @@
 	"title"		"EnvironmentsX"
 	"maps"		"^sb_"
 	"menusystem"	"1"
-	
-	"settings"
-	{
-
-	}
 }
